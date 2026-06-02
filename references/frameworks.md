@@ -1,8 +1,8 @@
 # Los 3 frameworks — el ojo del inversionista
 
-> **Fuente:** Conferencia sobre inversión y levantamiento de capital dictada por **[PONENTE — confirmar nombre]** en **Founders Club · Young Entrepreneurs Summit · 2026** (Panamá). InvestEye estructura y operacionaliza el contenido de esa charla para que cualquier fundador pueda aplicarlo. Crédito íntegro a la fuente; este material es una herramienta de práctica, no un sustituto de la conferencia.
+> **Fuente:** Charla **"Lo que los inversionistas ven… que tú no."** de **Guillermo Chapman** (Amador Holdings), dictada en el **Founders Club · The Young Entrepreneurs Summit** — 2 de junio de 2026, Aurora Soho Mall, Panamá. InvestEye estructura y operacionaliza el contenido de esa charla para que cualquier fundador pueda aplicarlo. Crédito íntegro a la fuente; este material es una herramienta de práctica, no un sustituto de la conferencia.
 >
-> **Nota de fidelidad:** los textos entre comillas son las frases del ponente tal como aparecieron en las láminas. Un subtítulo del Bloque B punto 7 quedó parcialmente cubierto en la foto fuente y está reconstruido a partir del principio visible — marcado abajo.
+> **Nota de fidelidad:** los textos entre comillas son las frases del ponente tal como aparecieron en sus láminas. Un subtítulo del Bloque B punto 7 quedó parcialmente cubierto en la foto fuente y está reconstruido a partir del principio visible — marcado en ese punto.
 
 Para cada checkpoint: **principio** (frase del ponente) · **qué significa** · **respuesta fuerte vs débil** · **preguntas para el fundador**.
 

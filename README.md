@@ -4,7 +4,7 @@
 
 InvestEye es un **coach guiado por IA** que toma a cualquier fundador y lo prepara para sentarse frente a un inversionista. No te interroga para tumbarte — te orienta y estructura, **una pregunta a la vez**, hasta que tu negocio resiste la mirada de quien firma el cheque. Al final te entrega un **Investor Readiness Dossier**: tu puntaje, tus fortalezas, tus huecos críticos y un plan de acción.
 
-> Construido a partir de la conferencia sobre inversión y levantamiento de capital de **[ponente — confirmar nombre]** en el **Founders Club · Young Entrepreneurs Summit 2026** (Panamá). Todo el crédito del marco conceptual es de la fuente; InvestEye solo lo vuelve una herramienta de práctica para que ningún founder se quede con el aprendizaje en una libreta.
+> Construido a partir de la charla **"Lo que los inversionistas ven… que tú no."** de **Guillermo Chapman** (Amador Holdings) en el **Founders Club · The Young Entrepreneurs Summit 2026** (Aurora Soho Mall, Panamá). Todo el crédito del marco conceptual es de la fuente; InvestEye solo lo vuelve una herramienta de práctica para que ningún founder se quede con el aprendizaje en una libreta.
 
 ---
 
