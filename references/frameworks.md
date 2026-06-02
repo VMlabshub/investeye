@@ -121,35 +121,43 @@ Para cada checkpoint: **principio** (frase del ponente) · **qué significa** ·
 ### "Tips para hacer networking con confianza"
 *Networking no es coleccionar contactos.*
 
+> **Estos 6 puntos son COACHING, no se puntúan** 🔴🟡🟢. Son hábitos, no checkpoints evaluables. Haz la pregunta, da el hábito + una acción concreta, y sigue. El score de readiness es sobre los 14 puntos de A+B.
+
 ### C1 · Investiga antes
 - **Principio:** *"Llega sabiendo quién es y qué le importa."*
 - **Qué significa:** Cinco minutos de research convierten un saludo en una conversación. Llega informado.
 - **Acción:** Antes de cada encuentro relevante, investiga 5 minutos: quién es, qué le importa, qué hizo recientemente.
+- **Pregunta al fundador:** ¿A quién quieres conocer en tu próximo evento o reunión, y qué averiguaste ya de esa persona?
 
 ### C2 · Relaciones > red
 - **Principio:** *"Diez fuertes valen más que mil débiles."*
 - **Qué significa:** Profundidad gana sobre cantidad. Diez relaciones reales superan mil contactos de tarjeta.
 - **Acción:** Invierte en profundizar pocas relaciones clave, no en acumular contactos.
+- **Pregunta al fundador:** ¿Cuáles son las 5-10 relaciones que más mueven tu negocio hoy, y qué estás haciendo para profundizarlas?
 
 ### C3 · Da primero
 - **Principio:** *"Resuelve un dolor antes de pedir nada."*
 - **Qué significa:** Una intro útil, una idea, un favor sin agenda — antes de pedir algo.
 - **Acción:** Entra a cada relación dando valor primero; el pedido viene después y se gana.
+- **Pregunta al fundador:** ¿Qué puedes darle a un contacto clave (una intro, una idea, un favor) antes de pedirle algo?
 
 ### C4 · Deja que hable
 - **Principio:** *"Pregunta. Escucha. Pregunta de nuevo."*
 - **Qué significa:** La mejor conversación es la que el otro recuerda haber tenido **contigo**. Eso pasa cuando habla más él que tú.
 - **Acción:** Pregunta, escucha de verdad, vuelve a preguntar. Que el otro hable el 70%.
+- **Pregunta al fundador:** En tu última conversación de networking, ¿quién habló más — tú o la otra persona?
 
 ### C5 · Cierra con follow-up (no con pitch)
 - **Principio:** *"Cierra con un follow-up, no con un pitch."*
 - **Qué significa:** El primer encuentro abre la puerta; el cierre es después. No vayas demasiado profundo ni quemes la relación pitcheando en el primer contacto.
 - **Acción:** Termina el primer encuentro acordando un próximo paso ligero, no cerrando una venta.
+- **Pregunta al fundador:** ¿Cómo piensas cerrar tu primer encuentro con un inversionista — con un pitch o con un próximo paso ligero?
 
 ### C6 · No es competencia
 - **Principio:** *"Algo útil sale de cada interacción."*
 - **Qué significa:** Aprendizaje, intro, idea o amistad — algo útil sale siempre. Las redes se expanden, no se encierran. No trates el networking como un juego de suma cero.
 - **Acción:** Entra a cada interacción esperando ganar algo útil (no necesariamente un deal) y aportar algo útil.
+- **Pregunta al fundador:** ¿Entras a tus interacciones esperando "cerrar algo", o buscando que salga algo útil para ambos lados?
 
 ---
 

@@ -8,8 +8,8 @@
 *Generado con InvestEye · [fecha] · basado en la conferencia de Founders Club*
 
 ## Veredicto general
-**Readiness: [X]/20 checkpoints en 🟢**
-Una línea honesta: ¿está este fundador listo para sentarse frente a un inversionista hoy, o qué le falta primero?
+**Readiness: [X]/14 checkpoints en 🟢** *(solo se puntúan Bloques A y B; Bloque C es coaching)*
+Una línea honesta y **calibrada al stage**: ¿está este fundador listo para sentarse frente a un inversionista hoy, o qué le falta primero? Un fundador pre-seed con varios 🔴 en tracción/economía no "falló" — está temprano; dilo así.
 
 ---
 
@@ -37,9 +37,9 @@ Una línea honesta: ¿está este fundador listo para sentarse frente a un invers
 | B7 | Referencias & referrals | | |
 | B8 | Misión vs flip | | |
 
-### Bloque C — Networking
-| # | Checkpoint | Estado | Nota |
-|---|-----------|--------|------|
+### Bloque C — Networking *(coaching, no se puntúa)*
+| # | Hábito | Cómo va el fundador hoy | Acción sugerida |
+|---|--------|--------------------------|-----------------|
 | C1 | Investiga antes | | |
 | C2 | Relaciones > red | | |
 | C3 | Da primero | | |
